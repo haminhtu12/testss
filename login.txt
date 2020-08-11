@@ -2,3 +2,4 @@ develop
 login
 logout
 release 
+fix bug
